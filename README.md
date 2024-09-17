@@ -1,1 +1,1 @@
-# Mean-calculation
+ Mean calculation of random numbers
